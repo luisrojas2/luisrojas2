@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Luis Rojas
+# I'm Luis Rojas
 
 💻 **DevOps Engineer & Backend Developer**
 
