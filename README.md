@@ -15,7 +15,7 @@ I build and automate backend systems and deployment pipelines using modern devel
 **⚙️ CI/CD Pipelines**  
 - Azure DevOps  
 - GitHub Actions  
-- GitLab CI  
+- Jenkins
 
 **📦 Containers & Orchestration**  
 - Docker  
